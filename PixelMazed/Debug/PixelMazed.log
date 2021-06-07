@@ -1,0 +1,85 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GraphicsProgramming.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BuildingFunctions.cpp
+  Camera.cpp
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Camera.cpp(32,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Camera.cpp(33,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Camera.cpp(34,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Camera.cpp(35,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Camera.cpp(36,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Camera.cpp(37,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Effects.cpp
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Effects.cpp(46,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Effects.cpp(50,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Effects.cpp(50,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Effects.cpp(54,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  FurnitureAndDetails.cpp
+C:\Users\User\Desktop\PixelMazed\PixelMazed\FurnitureAndDetails.cpp(30,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Input.cpp
+  Map.cpp
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Map.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  ModelsLoader.cpp
+C:\Users\User\Desktop\PixelMazed\PixelMazed\ModelsLoader.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\PixelMazed\PixelMazed\ModelsLoader.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\PixelMazed\PixelMazed\ModelsLoader.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+  Scene.cpp
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Scene.cpp(18,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Scene.cpp(19,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Structures.cpp
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(93,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(262,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(262,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(262,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(262,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(262,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(262,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(262,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(262,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(265,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(265,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(265,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(265,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(265,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(265,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(265,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(265,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(268,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(268,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(268,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(268,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(268,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(268,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(268,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(268,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(271,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(271,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(271,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(271,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(271,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(271,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(271,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(271,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(275,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(275,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(275,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(275,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(275,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(275,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(275,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(275,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(276,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(276,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(276,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(276,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(276,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(276,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(276,125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\PixelMazed\PixelMazed\Structures.cpp(276,115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Vector3.cpp
+  Generating Code...
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\User\Desktop\PixelMazed\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(SOIL.obj)' or at ''; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\User\Desktop\PixelMazed\Debug\SOIL.pdb'; linking object as if no debug info
+  PixelMazed.vcxproj -> C:\Users\User\Desktop\PixelMazed\Debug\PixelMazed.exe

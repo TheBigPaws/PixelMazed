@@ -1,0 +1,144 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (GraphicsProgramming.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Level.cpp
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\UI.h(40,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(15,66): warning C4244: 'argument': conversion from '_Ty' to 'float32', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(15,43): warning C4244: 'argument': conversion from '_Ty' to 'float32', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(16,70): warning C4244: 'argument': conversion from '_Ty' to 'float32', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(16,46): warning C4244: 'argument': conversion from '_Ty' to 'float32', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(97,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(99,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(99,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(100,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(100,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(114,89): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(117,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(119,89): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(149,47): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(149,38): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(158,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(158,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(158,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(158,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(158,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(158,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(158,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(158,114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(161,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(161,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(161,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(161,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(161,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(161,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(161,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(161,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(164,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(164,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(164,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(164,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(164,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(164,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(164,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(164,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(167,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(167,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(167,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(167,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(167,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(167,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(167,129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(167,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(176,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(176,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(176,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(176,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(176,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(176,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(176,115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(176,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(177,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(177,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(177,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(177,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(177,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(177,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(177,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(177,116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(188,102): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(188,73): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(195,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\1903300\Desktop\PixelMazed\PixelMazed\Level.cpp(195,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+SOIL.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 741 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+Box2D.lib(b2BroadPhase.obj) : warning LNK4099: PDB '' was not found with 'Box2D.lib(b2BroadPhase.obj)' or at ''; linking object as if no debug info
+Box2D.lib(b2CollideCircle.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CollideCircle.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CollideEdge.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CollideEdge.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CollidePolygon.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CollidePolygon.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Collision.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Collision.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Distance.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Distance.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2DynamicTree.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2DynamicTree.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2TimeOfImpact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2TimeOfImpact.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ChainShape.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ChainShape.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2EdgeShape.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2EdgeShape.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PolygonShape.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PolygonShape.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2BlockAllocator.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2BlockAllocator.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Draw.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Draw.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Math.obj) : warning LNK4099: PDB '' was not found with 'Box2D.lib(b2Math.obj)' or at ''; linking object as if no debug info
+Box2D.lib(b2Settings.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Settings.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2StackAllocator.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2StackAllocator.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Timer.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Timer.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Body.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Body.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ContactManager.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ContactManager.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Fixture.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Fixture.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Island.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Island.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2World.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2World.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2WorldCallbacks.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2WorldCallbacks.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ChainAndCircleContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ChainAndCircleContact.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ChainAndPolygonContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ChainAndPolygonContact.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CircleContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CircleContact.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Contact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Contact.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ContactSolver.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ContactSolver.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2EdgeAndCircleContact.obj) : warning LNK4099: PDB '' was not found with 'Box2D.lib(b2EdgeAndCircleContact.obj)' or at ''; linking object as if no debug info
+Box2D.lib(b2EdgeAndPolygonContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2EdgeAndPolygonContact.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PolygonAndCircleContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PolygonAndCircleContact.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PolygonContact.obj) : warning LNK4099: PDB '' was not found with 'Box2D.lib(b2PolygonContact.obj)' or at ''; linking object as if no debug info
+Box2D.lib(b2DistanceJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2DistanceJoint.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2FrictionJoint.obj) : warning LNK4099: PDB '' was not found with 'Box2D.lib(b2FrictionJoint.obj)' or at ''; linking object as if no debug info
+Box2D.lib(b2GearJoint.obj) : warning LNK4099: PDB '' was not found with 'Box2D.lib(b2GearJoint.obj)' or at ''; linking object as if no debug info
+Box2D.lib(b2Joint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Joint.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2MotorJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2MotorJoint.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2MouseJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2MouseJoint.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PrismaticJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PrismaticJoint.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PulleyJoint.obj) : warning LNK4099: PDB '' was not found with 'Box2D.lib(b2PulleyJoint.obj)' or at ''; linking object as if no debug info
+Box2D.lib(b2RevoluteJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2RevoluteJoint.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2RopeJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2RopeJoint.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2WeldJoint.obj) : warning LNK4099: PDB '' was not found with 'Box2D.lib(b2WeldJoint.obj)' or at ''; linking object as if no debug info
+Box2D.lib(b2WheelJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2WheelJoint.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\Box2D.pdb'; linking object as if no debug info
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\1903300\Desktop\PixelMazed\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+  PixelMazed.vcxproj -> C:\Users\1903300\Desktop\PixelMazed\Release\PixelMazed.exe

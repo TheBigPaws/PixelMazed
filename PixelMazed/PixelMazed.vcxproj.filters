@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="BuildingFunctions.cpp">
+      <Filter>Utility_files</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Utility_files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3.cpp">
+      <Filter>Utility_files</Filter>
+    </ClCompile>
+    <ClCompile Include="Effects.cpp">
+      <Filter>Utility_files</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Level_files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Level_files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Glut</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelsLoader.cpp">
+      <Filter>Utility_files\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Level_files</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionWorld.cpp">
+      <Filter>Level_files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Glut</Filter>
+    </ClCompile>
+    <ClCompile Include="Lights.cpp">
+      <Filter>Glut</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="FurnitureAndDetails.cpp">
+      <Filter>StructuresAndDetail</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimitiveModels.cpp">
+      <Filter>StructuresAndDetail</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BuildingFunctions.h">
+      <Filter>Utility_files</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Utility_files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Utility_files</Filter>
+    </ClInclude>
+    <ClInclude Include="Effects.h">
+      <Filter>Utility_files</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Level_files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Level_files</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Glut</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelsLoader.h">
+      <Filter>Utility_files\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Level_files</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionWorld.h">
+      <Filter>Level_files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Glut</Filter>
+    </ClInclude>
+    <ClInclude Include="Lights.h">
+      <Filter>Glut</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="FurnitureAndDetails.h">
+      <Filter>StructuresAndDetail</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimitiveModels.h">
+      <Filter>StructuresAndDetail</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Audio</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Utility_files">
+      <UniqueIdentifier>{9dd1c1d0-c2eb-4cd3-8c4e-c240426ab7bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level_files">
+      <UniqueIdentifier>{cb0e2ad8-90b1-4f00-9ab5-7d4b90b0df7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Glut">
+      <UniqueIdentifier>{39fecc2b-a2d4-4d34-a7c2-d253a8a4e408}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility_files\Models">
+      <UniqueIdentifier>{e7071f77-9a03-47e3-acd3-0bde61b1f4a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entities">
+      <UniqueIdentifier>{33b81d50-a76a-4188-9347-fc9a80dc07e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Misc">
+      <UniqueIdentifier>{f816b74d-4e29-418a-b323-da5bba945d27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StructuresAndDetail">
+      <UniqueIdentifier>{ed443a9c-324f-49de-9748-c028abb2d849}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Audio">
+      <UniqueIdentifier>{20756de3-4a28-4b60-bb40-c5a62ec61a31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
