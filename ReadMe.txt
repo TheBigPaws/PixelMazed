@@ -6,7 +6,7 @@ PixelMazed
 
 	PixelMazed was made as a final project for 2nd year Game Dev course at Abertay University. 
 	Due to lack of time and unfortunate technical difficulties (you live you learn. Moral of the story: Always back up files), 
-	this game lacks most gameplay features. It does, however, have solid ground (level generation, base classes, many helper functions, ...).
+	this game lacks most gameplay features. It does, however, have solid ground (level generation, base classes, many helper functions, simple Ray Trace ...).
 	
 	It is my intention to  return to this project to get it to a presentable state
 
